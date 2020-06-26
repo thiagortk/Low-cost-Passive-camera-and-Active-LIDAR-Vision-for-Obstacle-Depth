@@ -13,8 +13,13 @@ Example of disparity map created by stereo correspondence through two images and
 (a) Original Image, (b) Stereo Disparity Map (camera), (c) Point Cloud Map (LIDAR)
 ![Results](https://i.imgur.com/5MeLh4X.jpg)
 
+Must have OpenCV 3.1 or later installed with extra modules.
+Also Arduino IDE (https://www.arduino.cc/en/Guide/HomePage).
+And Processing (https://processing.org/) as well.
+
 ## Stereo Disparity Map (from camera)
-To do...
+To compile: g++ filteredDisparityMap.cpp -lopencv_core -lopencv_videoio -lopencv_highgui -lopencv_imgcodecs -lopencv_imgproc -lopencv_calib3d -lopencv_features2d -lopencv_ximgproc -o veRun
 
 ## Point Cloud Map (from LIDAR)
-To do...
+Control the servos with '''lidarControl.ino'''
+Build the Point Cloud with '''lidarPointCloud.pde'''
