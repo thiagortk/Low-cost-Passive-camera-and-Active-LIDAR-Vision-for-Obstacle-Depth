@@ -21,5 +21,5 @@ And Processing (https://processing.org/) as well.
 To compile: g++ filteredDisparityMap.cpp -lopencv_core -lopencv_videoio -lopencv_highgui -lopencv_imgcodecs -lopencv_imgproc -lopencv_calib3d -lopencv_features2d -lopencv_ximgproc -o veRun
 
 ## Point Cloud Map (from LIDAR)
-Control the servos with '''lidarControl.ino'''
-Build the Point Cloud with '''lidarPointCloud.pde'''
+Control the servos with lidarControl.ino
+Build the Point Cloud with lidarPointCloud.pde
