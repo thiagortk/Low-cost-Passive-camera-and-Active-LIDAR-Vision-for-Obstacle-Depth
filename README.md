@@ -2,6 +2,19 @@
 
 Example of disparity map created by stereo correspondence through two images and a point cloud map created by LIDAR data values (distances measures).
 
+ ## Citation:
+ ```
+@article{chirella:2020,
+  author = {Vito F. Chiarella, Thiago Rateke, Karla A. Justen, Antonio C Sobieranski, Sylvio L Mantelli, Eros Comunello, Aldo Von Wangenheim},
+  title = {Comparison between low-cost passive and active vision for obstacle depth},
+  journal = {Revista de Ciência e Tecnologia (RCT)},
+   volume = {6},
+  year = {2020},
+}
+```
+
+ - [Original Paper](https://www.researchgate.net/publication/342666208_Comparison_between_low-cost_passive_and_active_vision_for_obstacle_depth)
+
 ## Sensors used
 - Two HP Webcam HD-4110
 - One LIDAR Lite V2
