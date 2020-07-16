@@ -5,7 +5,7 @@ Example of disparity map created by stereo correspondence through two images and
  ## Citation:
  ```
 @article{chirella:2020,
-  author = {Vito F. Chiarella, Thiago Rateke, Karla A. Justen, Antonio C Sobieranski, Sylvio L Mantelli, Eros Comunello, Aldo Von Wangenheim},
+  author = {Vito F. Chiarella, Thiago Rateke, Karla A. Justen, Antonio C Sobieranski, Sylvio L Mantelli, Eros Comunello, Aldo von Wangenheim},
   title = {Comparison between low-cost passive and active vision for obstacle depth},
   journal = {Revista de Ciência e Tecnologia (RCT)},
    volume = {6},
