@@ -14,6 +14,7 @@ Example of disparity map created by stereo correspondence through two images and
 ```
 
  - [Original Paper](https://www.researchgate.net/publication/342666208_Comparison_between_low-cost_passive_and_active_vision_for_obstacle_depth)
+ - [Step-by-step](https://medium.com/analytics-vidhya/visual-depth-estimation-by-two-different-sensors-36f756d1575a?source=friends_link&sk=c3869820f7fffda3053a6e5993f5f6eb)
 
 ## Sensors used
 - Two HP Webcam HD-4110
